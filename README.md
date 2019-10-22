@@ -2,3 +2,5 @@ The purpose of Usability Testing is to improve the usability of a product. Throu
 
 
 [View the online UT survey](https://forms.gle/W2rdA9CM32chXA1cA)
+
+[View the pilot test video]
